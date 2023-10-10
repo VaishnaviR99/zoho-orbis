@@ -1,0 +1,141 @@
+{
+  
+     "columns" : [
+   
+    {
+      "field": "name",
+      "headerName": "Laptop Name",
+      "flex": 1,
+      "cellClassName": "name-column--cell"
+    },
+    {
+      "field": "ipAddress",
+      "headerName": "IP Address",
+      "type": "number",
+      "headerAlign": "left",
+      "align": "left"
+    },
+    {
+      "field": "date_of_issue",
+      "headerName": "Date of Issue",
+      "flex": 1
+    },
+    {
+      "field": "varient",
+      "headerName": "Varient",
+      "flex": 1
+    },
+    {
+      "field": "assignedTo",
+      "headerName": "Assigned To",
+      "flex": 1
+    
+    },
+    {
+        "field": "assignedBy",
+        "headerName": "Assigned By",
+        "flex": 1
+    },
+    {
+        "field": "status",
+        "headerName": "Status",
+        "flex": 1
+        
+    }
+  ],
+
+
+  "mockDataTeam" :[
+    {
+      "id": 1,
+      "name": "Jon Snow",
+      "varient": "jonsnow@gmail.com",
+      "ipAddress": 35,
+      "date_of_issue": "(665)121-5454",
+      "assignedTo": "admin",
+      "assignedBy": "admin",
+      "status": true
+
+    },
+    {
+      "id": 2,
+      "name": "Cersei Lannister",
+      "varient": "cerseilannister@gmail.com",
+      "ipAddress": 42,
+      "date_of_issue": "(421)314-2288",
+      "assignedTo": "manager",
+      "assignedBy": "manager",
+      "status": true
+    },
+    {
+      "id": 3,
+      "name": "Jaime Lannister",
+      "varient": "jaimelannister@gmail.com",
+      "ipAddress": 45,
+      "date_of_issue": "(422)982-6739",
+      "assignedTo": "user",
+      "assignedBy": "user",
+      "status": true
+    },
+    {
+      "id": 4,
+      "name": "Anya Stark",
+      "varient": "anyastark@gmail.com",
+      "ipAddress": 16,
+      "date_of_issue": "(921)425-6742",
+      "assignedTo": "admin",
+      "assignedBy": "admin",
+      "status": true
+    },
+    {
+      "id": 5,
+      "name": "Daenerys Targaryen",
+      "varient": "daenerystargaryen@gmail.com",
+      "ipAddress": 31,
+      "date_of_issue": "(421)445-1189",
+      "assignedTo": "user",
+      "assignedBy": "user",
+      "status": true
+    },
+    {
+      "id": 6,
+      "name": "Ever Melisandre",
+      "varient": "evermelisandre@gmail.com",
+      "ipAddress": 150,
+      "date_of_issue": "(232)545-6483",
+      "assignedTo": "manager",
+      "assignedBy": "manager",
+      "status": true
+    },
+    {
+      "id": 7,
+      "name": "Ferrara Clifford",
+      "varient": "ferraraclifford@gmail.com",
+      "ipAddress": 44,
+      "date_of_issue": "(543)124-0123",
+      "assignedTo": "user",
+      "assignedBy": "user",
+      "status": true
+    },
+    {
+      "id": 8,
+      "name": "Rossini Frances",
+      "varient": "rossinifrances@gmail.com",
+      "ipAddress": 36,
+      "date_of_issue": "(222)444-5555",
+      "assignedTo": "user",
+      "assignedBy": "user",
+      "status": false
+    },
+    {
+      "id": 9,
+      "name": "Harvey Roxie",
+      "varient": "harveyroxie@gmail.com",
+      "ipAddress": 65,
+      "date_of_issue": "(444)555-6239",
+      "assignedTo": "admin",
+      "assignedBy": "admin",
+      "status": true
+    }
+  ]
+}
