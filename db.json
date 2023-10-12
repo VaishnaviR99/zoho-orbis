@@ -17,7 +17,8 @@
       "location": "Chennai",
       "brand": "Dell",
       "model": "CND25350",
-      "domain": "IT",
+      "department": "IT",
+      "purpose":"development",
       "status": true
     },
     {
@@ -33,7 +34,8 @@
       "location": "Chennai",
       "brand": "Dell",
       "model": "CND25359",
-      "domain": "IT",
+      "department": "IT",
+      "purpose": "development",
       "status": true
     },
     {
@@ -49,7 +51,8 @@
       "location": "Chennai",
       "brand": "Dell",
       "model": "CND25358",
-      "domain": "IT",
+      "department": "IT",
+      "purpose": "development",
       "status": true
     },
      {
@@ -65,7 +68,8 @@
        "location": "Chennai",
        "brand": "Dell",
        "model": "CND25353",
-       "domain": "IT",
+       "department": "IT",
+       "purpose": "development",
        "status": true
      },
     {
@@ -81,7 +85,8 @@
       "location": "Chennai",
       "brand": "Dell",
       "model": "CND25354",
-      "domain": "Finance",
+      "department": "Finance",
+      "purpose": "development",
       "status": true
     },
     {
@@ -97,7 +102,8 @@
       "location": "Chennai",
       "brand": "Dell",
       "model": "CND25352",
-      "domain": "HR",
+      "department": "HR",
+      "purpose": "development",
       "status": true
     },
     {
@@ -113,7 +119,8 @@
       "location": "Chennai",
       "brand": "Dell",
       "model": "CND25357",
-      "domain": "Finance",
+      "department": "Finance",
+      "purpose": "development",
       "status": false
     }
      
