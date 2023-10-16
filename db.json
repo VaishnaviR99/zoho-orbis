@@ -18,7 +18,8 @@
       "brand": "Dell",
       "model": "CND25350",
       "department": "IT",
-      "purpose":"development",
+      "returnTo": "",
+      "purpose": "development",
       "status": true
     },
     {
@@ -35,6 +36,7 @@
       "brand": "Dell",
       "model": "CND25359",
       "department": "IT",
+      "returnTo": "",
       "purpose": "development",
       "status": true
     },
@@ -52,6 +54,7 @@
       "brand": "Dell",
       "model": "CND25358",
       "department": "IT",
+      "returnTo": "",
       "purpose": "development",
       "status": true
     },
@@ -69,6 +72,7 @@
        "brand": "Dell",
        "model": "CND25353",
        "department": "IT",
+       "returnTo": "",
        "purpose": "development",
        "status": true
      },
@@ -86,6 +90,7 @@
       "brand": "Dell",
       "model": "CND25354",
       "department": "Finance",
+      "returnTo": "",
       "purpose": "development",
       "status": true
     },
@@ -104,6 +109,7 @@
       "brand": "Dell",
       "model": "CND25352",
       "department": "HR",
+      "returnTo":"", 
       "purpose": "development",
       "status": true
     },
@@ -121,6 +127,7 @@
       "brand": "Dell",
       "model": "CND25357",
       "department": "Finance",
+      "returnTo":"",
       "purpose": "development",
       "status": false
     }
