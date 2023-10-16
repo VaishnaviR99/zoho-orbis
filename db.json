@@ -6,7 +6,7 @@
   "mockDataTeam" :[
     {
       "id": 1,
-      "name": "Jon Snow",
+      "name": "CFTPL/IT/LAP/LP-101",
       "os": "Windows",
       "ipAddress": "192.168.0.1",
       "date_of_issue": "11-10-2023",
@@ -23,7 +23,7 @@
     },
     {
       "id": 2,
-      "name": "Cersei Lannister",
+      "name": "CFTPL/IT/LAP/LP-102",
       "os": "Windows",
       "ipAddress": "172.16.0.1",
       "date_of_issue": "12-10-2023",
@@ -40,7 +40,7 @@
     },
     {
       "id": 3,
-      "name": "Jaime Lannister",
+      "name": "CFTPL/IT/LAP/LP-103",
       "os": "Linux",
       "ipAddress": "203.0.113.1",
       "date_of_issue": "13-10-2023",
@@ -57,7 +57,7 @@
     },
      {
        "id": 4,
-       "name": "cand3 lastname",
+       "name": "CFTPL/IT/LAP/LP-104",
        "os": "Linux",
        "ipAddress": "198.51.100.1",
        "date_of_issue": "14-10-2023",
@@ -74,7 +74,7 @@
      },
     {
       "id": 5,
-      "name": "cand2 lastname",
+      "name": "CFTPL/IT/LAP/LP-105",
       "os": "Windows",
       "ipAddress": "172.16.0.2",
       "date_of_issue": "07-10-2023",
@@ -89,9 +89,10 @@
       "purpose": "development",
       "status": true
     },
+
     {
       "id": 6,
-      "name": "Jaim Lanni",
+      "name": "CFTPL/IT/LAP/LP-106",
       "os": "Linux",
       "ipAddress": "203.0.113.2",
       "date_of_issue": "08-10-2023",
@@ -108,7 +109,7 @@
     },
     {
       "id": 7,
-      "name": "Jai Lannister",
+      "name": "CFTPL/IT/LAP/LP-107",
       "os": "Linux",
       "ipAddress": "198.51.100.2",
       "date_of_issue": "09-10-2023",
@@ -125,4 +126,5 @@
     }
      
   ]
+  
 }
